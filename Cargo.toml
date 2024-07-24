@@ -1,0 +1,9 @@
+[package]
+name = "opengl_playground"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gl = "0.14"
+glfw = "0.42"
+nalgebra = "0.30"
